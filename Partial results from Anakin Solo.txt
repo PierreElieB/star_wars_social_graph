@@ -1,0 +1,1118 @@
+Anakin Solo : 0
+Round 0 ended
+1 threads launched = new pages explored
+0 server requests failed
+0 pages not reached and failed
+1 new characters found
+1 pages in the tree in total
+1 characters in total
+548 new links to explore found
+Aragon : 1
+Bela Hara : 1
+Ben Skywalker : 1
+Chalco : 1
+Chewbacca : 1
+Corran Horn : 1
+Dab Hantaq : 1
+Danni Quee : 1
+Darez Wuht : 1
+Dark Apprentice : 1
+Duman Yaght : 1
+Durgard Brarun : 1
+Ebrihim : 1
+Eryl Besa : 1
+Exar Kun : 1
+Finn Galfridian : 1
+Furgan : 1
+Ganner Rhysode : 1
+Garowyn : 1
+George Lucas : 1
+Gial Ackbar : 1
+Han Solo : 1
+Hethrir : 1
+Ikrit : 1
+James Luceno : 1
+Jovan Drark : 1
+Kam Solusar : 1
+Kelbis Nu : 1
+Kenth Hamner : 1
+Kevin J. Anderson : 1
+Krasov Hara : 1
+Kyp Durron : 1
+Lando Calrissian : 1
+Leia Organa Solo : 1
+Lomi Plo : 1
+Lowbacca : 1
+Luke Skywalker : 1
+Lumiya : 1
+Lusa : 1
+Lyric : 1
+Mara Jade Skywalker : 1
+Marcha : 1
+Mezhan Kwaad : 1
+Micamberlecto : 1
+Michael A. Stackpole : 1
+Mirax Terrik Horn : 1
+Nom Anor : 1
+Qwi Xux : 1
+Raynar Thul : 1
+Sannah : 1
+Shimrra Jamaane : 1
+Shok Choka : 1
+Tahiri Veila : 1
+Tamith Kai : 1
+Tekli : 1
+Tenel Ka Djo : 1
+Tesar Sebatyne : 1
+Themion : 1
+Thrackan Sal-Solo : 1
+Thrynni Vae : 1
+Tigris : 1
+Tionne Solusar : 1
+Tresina Lobi : 1
+Troy Denning : 1
+Tuber : 1
+Ulaha Kore : 1
+Uldir Lochett : 1
+Valin Horn : 1
+Vergere : 1
+Vilas : 1
+Vua Rapuung : 1
+Welk : 1
+Winter Celchu : 1
+World Brain : 1
+Yoda : 1
+Zekk : 1
+Round 1 ended
+530 threads launched = new pages explored
+0 server requests failed
+0 pages not reached and failed
+85 new characters found
+531 pages in the tree in total
+86 characters in total
+26799 new links to explore found
+A. C. Crispin : 2
+ARC-77 : 2
+Aaron Allston : 2
+Aayla Secura : 2
+Abbela Oldsong : 2
+Abeloth : 2
+Adas : 2
+Adi Gallia : 2
+Afyon : 2
+Agapos the Tenth : 2
+Agen Kolar : 2
+Ahsi Yim : 2
+Ahsoka Tano : 2
+Aidan Barton : 2
+Aidel Saxan : 2
+Ailyn Vel : 2
+Airen Cracken : 2
+Ajai Fel : 2
+Akanah Norand Goss Pell : 2
+AlGray : 2
+Alan Dean Foster : 2
+Alaric : 2
+Aleema Keto : 2
+Alema Rar : 2
+Aleson Gray : 2
+Alfreda Goot : 2
+Allana Solo : 2
+Alph : 2
+Alpha : 2
+Amaiza Foxtrain : 2
+Amanda Lucas : 2
+Amanoa : 2
+Ana Blue : 2
+Anakin Skywalker : 2
+Andoorni Hui : 2
+Anja Gallandro : 2
+Anki Pace : 2
+Antinnis Tremayne : 2
+Apwar Trigit : 2
+Arb Skynxnex : 2
+Arca Jeth : 2
+Archie Goodwin : 2
+Ardax : 2
+Aril Nunb : 2
+Arn Horada : 2
+Arno : 2
+Aron Peacebringer : 2
+Ars Fivvle : 2
+Arvel Crynyd : 2
+Aryn Dro Thul : 2
+Asajj Ventress : 2
+Ask Aak : 2
+Attichitcuk : 2
+Atuarre : 2
+Augwynne Djo : 2
+Aurra Sing : 2
+Avaro Sookcool : 2
+Avrak Villachor : 2
+Azrakel : 2
+B4711 : 2
+Bacca : 2
+Bail Prestor Organa : 2
+Baljos Arnjak : 2
+Bandy Geffer : 2
+Bangor : 2
+Barbara Hambly : 2
+Barit Saiy : 2
+Barkale : 2
+Barney : 2
+Barpotomous Drebble : 2
+Barrison Draay : 2
+Barriss Offee : 2
+Barshnis Choard : 2
+Bassi Vobah : 2
+Basso : 2
+Bazel Warv : 2
+Beldorion : 2
+Belindi Kalenda : 2
+Ben Burtt : 2
+Benedict Vidkun : 2
+Bensin Tomri : 2
+Berethron e Solo : 2
+Bertroff Hissa : 2
+Beru Whitesun Lars : 2
+Beta Ioli : 2
+Bevel Lemelisk : 2
+Bey : 2
+Bhoggihalysahonues : 2
+Bib Fortuna : 2
+Biggs Darklighter : 2
+Bikum Calus : 2
+Billy Dee Williams : 2
+Bink Otauna : 2
+Blitzer Harrsk : 2
+BoShek : 2
+Boba Fett : 2
+Bodo Baas : 2
+Bohhuah Mutdah : 2
+Bok Yost : 2
+Bolla Ropal : 2
+Bolpuhr : 2
+Booster Terrik : 2
+Borbor Crisk : 2
+Borborygmus Gog : 2
+Borga Besadii Diori : 2
+Bornan Thul : 2
+Bossk : 2
+Boushh : 2
+Brakiss : 2
+Breha Organa : 2
+Bria Tharen : 2
+Brian Daley : 2
+Bror Jace : 2
+Bruu Jun-Fan : 2
+Burr Nolyds : 2
+Burra : 2
+Byalfin Dyur : 2
+Byrch Dyshkava : 2
+CC-1004 : 2
+CC-3636 : 2
+CC-4477 : 2
+CT-7567 : 2
+Caaldra : 2
+Cad Bane : 2
+Cade Skywalker : 2
+Caet Shrovl : 2
+Cakhmaim : 2
+Cal Omas : 2
+Caled Galfridian : 2
+Callista Ming : 2
+Carib Devist : 2
+Carlist Rieekan : 2
+Carnor Jax : 2
+Carrie Fisher : 2
+Cassa Veila : 2
+Catherine Taber : 2
+Cato Parasitti : 2
+Cay Qel-Droma : 2
+Celeste Morne : 2
+Celly Organa : 2
+Cha Niathal : 2
+Chaan : 2
+Chak Fel : 2
+Chal Tozr : 2
+Chantique : 2
+Chara : 2
+Chay Praysh : 2
+Chedaki : 2
+Chenlambec : 2
+Cheriss ke Hanadi : 2
+Chihdo : 2
+Chine-kal : 2
+Cho Badeleg : 2
+Chris Trevas : 2
+Christian Gossett : 2
+Cin Drallig : 2
+Cix Trouvee : 2
+Clare Grant : 2
+Clone shock trooper : 2
+Clorr : 2
+Cnorec : 2
+Cobak : 2
+Cody Sunn-Childe : 2
+Cojahn : 2
+Cole Fardreamer : 2
+Coleman Kcaj : 2
+Coleman Trebor : 2
+Condren Foreck : 2
+Cornelius Wagglehorn : 2
+Corwyth : 2
+Crado : 2
+Cray Mingla : 2
+Crev Bombaasa : 2
+Crimson Jack : 2
+Crix Madine : 2
+Cronal : 2
+Cudgel : 2
+Culan Brasli : 2
+Curtis Saxton : 2
+Cypher Bos : 2
+Czulkang Lah : 2
+Dacholder : 2
+Daclif Gallamby : 2
+Dakorse Teep : 2
+Dani : 2
+Daniel Wallace : 2
+Danu : 2
+Daric LaRone : 2
+Darima Kedari : 2
+Darjeelai Swan : 2
+Dark Mara : 2
+Darker : 2
+Darlen : 2
+Darth Bane : 2
+Darth Caedus : 2
+Darth Krayt : 2
+Darth Maul : 2
+Darth Plagueis : 2
+Darth Vectivus : 2
+Dash Rendar : 2
+Daughter : 2
+Dauren : 2
+Dave Fennoy : 2
+Dave Filoni : 2
+David Michelinie : 2
+Davim Cross : 2
+Daxar Ies : 2
+Daye Azur-Jamin : 2
+Dean Jinzler : 2
+Deara Antilles : 2
+Decca Besadii Diori : 2
+Deena Shan : 2
+Deign Lian : 2
+Delak Krennel : 2
+Demagol : 2
+Den Siva : 2
+Dengar : 2
+Denid : 2
+Denin : 2
+Denjax Teppler : 2
+Depa Billaba : 2
+Dequc : 2
+Derek Klivian : 2
+Desann : 2
+Dewlannamapia : 2
+Dexter Jettster : 2
+Diric Wessiri : 2
+Dol Donar II : 2
+Domina Tagge : 2
+Dominic Raynor : 2
+Dominus : 2
+Don-Wan Kihotay : 2
+Dooku : 2
+Doran Sarkin-Tainer : 2
+Dorsk 80 : 2
+Dorsk 81 : 2
+Dorsk 82 : 2
+Dowron : 2
+Dranae Shai : 2
+Drathul : 2
+Drea Renthal : 2
+Drelfin : 2
+Dromath : 2
+Drosh Khalii : 2
+Drost Elegin : 2
+Drub McKumb : 2
+Dryanta : 2
+Ducilla Brarun : 2
+Dulac : 2
+Dur Gejjen : 2
+Durga Besadii Tai : 2
+Dusque Mistflier : 2
+Duttes Mer : 2
+Dynba Tesc : 2
+Dyon Stadd : 2
+Dzym : 2
+Ecclessis Figg : 2
+Eckla Shoolb : 2
+Edela Klauskin : 2
+Eelysa : 2
+Eeth Koth : 2
+Egron : 2
+Elaine Cunningham : 2
+Elan : 2
+Elassar Targon : 2
+Elis : 2
+Elscol Loro : 2
+Embo : 2
+Empatojayos Brand : 2
+Erik Bauersfeld : 2
+Erisi Dlarit : 2
+Erling Tredway : 2
+Esla : 2
+Etain Tur-Mukan : 2
+Even Piell : 2
+Evir Derricote : 2
+Fae Coven : 2
+Faro Argyus : 2
+Faron Tolis : 2
+Faskus Olvidan : 2
+Father : 2
+Feeana Tala : 2
+Female Saarai-kaar : 2
+Fenig Nabon : 2
+Fenn Shysa : 2
+Ferus Olin : 2
+Finis Valorum : 2
+Finn : 2
+Firith Olan : 2
+Firmus Piett : 2
+Flint : 2
+Fliry Vorru : 2
+Fonterrat : 2
+Foul Moudama : 2
+Frank Oz : 2
+Freedon Nadd : 2
+Fumiyo : 2
+Fynn Torve : 2
+Fyor Rodan : 2
+Fyric Fel : 2
+Gaeriel Captison : 2
+Galak Fyyar : 2
+Galen Marek : 2
+Gallandro : 2
+Galney : 2
+Gamgalon : 2
+Gantoris : 2
+Gara Petothel : 2
+Garik Loran : 2
+Garm Bel Iblis : 2
+Garris Shrike : 2
+Gavar Khai : 2
+Gavin Darklighter : 2
+Gethzerion : 2
+Ghitsa Dogder : 2
+Gibb : 2
+Gil Bastra : 2
+Gilad Pellaeon : 2
+Giles Durane : 2
+Gilthor Breen : 2
+Githany : 2
+Goran Beviin : 2
+Gorb Drig : 2
+Grakchawwaa : 2
+Granta Omega : 2
+Grappa : 2
+Greedo : 2
+Greg Bear : 2
+Greg Keyes : 2
+Gregar Typho : 2
+Grey Griffin : 2
+Grievous : 2
+Grohto : 2
+Gumbaeki : 2
+Gunner Groth : 2
+Gwad Raatu : 2
+Gyle : 2
+Haber Trell : 2
+Hal Horn : 2
+Halla : 2
+Halliava Vurse : 2
+Halsey : 2
+Hans Jenssen : 2
+Harlech : 2
+Harrar : 2
+Harrison Ford : 2
+Hart-and-Parn Gorra-Fiolla : 2
+Haryette Davani : 2
+Havet Storm : 2
+Hedji : 2
+Heeth Panteer : 2
+Hinch Beltane : 2
+Hindane Darcc : 2
+Hiram Drayson : 2
+Hondo Ohnaka : 2
+Hortel Ossilege : 2
+Horton Salm : 2
+Howard Roffman : 2
+Hrekin Thorm : 2
+Hric Dalhney : 2
+Hronk : 2
+Huff Darklighter : 2
+Hugo Treece : 2
+Hul Rapuung : 2
+Ibtisam : 2
+Iella Wessiri Antilles : 2
+Ilir Post : 2
+Illiet : 2
+Immodet : 2
+Incavi Larado : 2
+Indiana Jones : 2
+Inyri Forge : 2
+Irek Ismaren : 2
+Irvin Kershner : 2
+Isolder : 2
+Isplourrdacartha Estillo : 2
+Issan Len : 2
+Ivaar Workan : 2
+Jabba Desilijic Tiure : 2
+Jabitha Hal : 2
+Jaden Korr : 2
+Jagged Fel : 2
+Jahan Cross : 2
+Jahn : 2
+Jai Maruk : 2
+Jaina : 2
+Jaina Solo Fel : 2
+Jak Bremen : 2
+Jakan : 2
+Jan Dodonna : 2
+Jango Fett : 2
+Jar Jar Binks : 2
+Jarik Solo : 2
+Jarril : 2
+Jart Eyan : 2
+Jax Pavan : 2
+Jaxxon : 2
+Jaybo Hood : 2
+Jeffrey Brown : 2
+Jek Tono Porkins : 2
+Jenica Sonsen : 2
+Jesmin Ackbar : 2
+Jett Lucas : 2
+Jett Nabon : 2
+Jib Kopatha : 2
+Jiliac Desilijic Tiron : 2
+Jimm Doshun : 2
+Jocasta Nu : 2
+Jodo Kast : 2
+John Mollo : 2
+Jonas Stern : 2
+Jonash Solo : 2
+Jorak Uln : 2
+Jorg Sacul : 2
+Jori Lekauf : 2
+Jorin Sol : 2
+Jorshmin : 2
+Jowdrrl : 2
+Jozzel Moffet : 2
+Judd : 2
+Judder Page : 2
+Jude Rozess : 2
+Jula Darklighter : 2
+Juno Eclipse : 2
+Jysella Horn : 2
+Kaell 116 : 2
+Kalgrath : 2
+Kallabow : 2
+Kani Asari : 2
+Kapp Dendo : 2
+Karen Traviss : 2
+Karg : 2
+Karia Ver Seryan : 2
+Kassar Forge : 2
+Kath Soucie : 2
+Kathy Tyers : 2
+Katie Lucas : 2
+Katuunko : 2
+Kaye Galfridian : 2
+Kayos : 2
+Keevy Spart : 2
+Keiran Halcyon : 2
+Kell Tainer : 2
+Ken : 2
+Kendal Ozzel : 2
+Kevin Michael Richardson : 2
+Keyan Farlander : 2
+Khalee Lah : 2
+Kharrus : 2
+Kharys : 2
+Khe-Jeen Slee : 2
+Khedryn Faal : 2
+Ki-Adi-Mundi : 2
+Kiara Olvidan : 2
+Kine : 2
+Kirana Ti : 2
+Kiro : 2
+Kirtan Loor : 2
+Kit Fisto : 2
+Kitster Chanchani Banai : 2
+Klaus Vandangante : 2
+Klin-Fa Gi : 2
+Knox : 2
+Ko Solok : 2
+Kol Skywalker : 2
+Komm Karsh : 2
+Koro Ziil : 2
+Krag Val : 2
+Kral Nevil : 2
+Krynda Draay : 2
+Kueller : 2
+Kunra : 2
+Kyle Katarn : 2
+L. Neil Smith : 2
+Lai Nootka : 2
+Lak Sivrak : 2
+Lalu Morwan : 2
+Lamos Chatoor : 2
+Lando Calrissian, Junior : 2
+Larm : 2
+Lassin : 2
+Lawrence Kasdan : 2
+Lee-Char : 2
+Leeha Faal : 2
+Lehesu : 2
+Leia Organa : 2
+Leland Chee : 2
+Lemo : 2
+Lensi : 2
+Leonia Tavira : 2
+Leonie : 2
+Lex Lang : 2
+Lisa Fuson : 2
+Livette : 2
+Lob Doluff : 2
+Lobot : 2
+Lon Shevu : 2
+Loren : 2
+Losca : 2
+Luewet Wuul : 2
+Lujayne Forge : 2
+Luminara Unduli : 2
+Lumpawaroo : 2
+Luuke Skywalker : 2
+Lux Bonteri : 2
+Lydea Pagorski : 2
+Lyonie : 2
+Lyyr Zatoq : 2
+Maarek Stele : 2
+Mace Windu : 2
+Madhi Vaandt : 2
+Mahraccor : 2
+Mak Luunim : 2
+Mako Spince : 2
+Maks Leem : 2
+Malik Carr : 2
+Mallatobuck : 2
+Malta : 2
+Mammon Hoole : 2
+Mandalore the Indomitable : 2
+Mandalore the Ultimate : 2
+Mara : 2
+Maranne Darmic : 2
+Marcia Lucas : 2
+Mark Hamill : 2
+Marka Ragnos : 2
+Marl Semtin : 2
+Marshak : 2
+Mary Jo Duffy : 2
+Massad Thrumble : 2
+Matric Klauskin : 2
+Matthew Stover : 2
+Maximilian Veers : 2
+Meena Tills : 2
+Meetra Surik : 2
+Meewalh : 2
+Melina Carniss : 2
+Meloque : 2
+Memily : 2
+Merri Shen Doshun : 2
+Mia Ikova : 2
+Micah Giiett : 2
+Michael P. Kube-McDowell : 2
+Michael Reaves : 2
+Miko Reglia : 2
+Mirta Gev : 2
+Mistal : 2
+Moegid : 2
+Mohs : 2
+Mon Mothma : 2
+Mone : 2
+Mongei Shai : 2
+Moralo Eval : 2
+Moruth Doole : 2
+Movac Arisster : 2
+Mrrov : 2
+Mungo Baobab : 2
+Muuurgh : 2
+Myda Forge : 2
+Myn Donos : 2
+Myrette Davani : 2
+Myri Antilles : 2
+Naga Sadow : 2
+Nahdar Vebb : 2
+Nakk Kech : 2
+Nal Kenuun : 2
+Nandreeson : 2
+Nasdra Magrody : 2
+Natasi Daala : 2
+Nathan Hamill : 2
+Natua Wan : 2
+Nebo : 2
+Neena : 2
+Neil Ross : 2
+Neira Shai : 2
+Nejaa Halcyon : 2
+Nelani Dinn : 2
+Nen Yim : 2
+Ngaaluh : 2
+Nien Nunb : 2
+Niiriit Esh : 2
+Nikkos Tyris : 2
+Nil Spaar : 2
+Niles Ferrier : 2
+Nina Galfridian : 2
+Niuk Niuv : 2
+Nolaa Tarkona : 2
+Nolan Gillmunn : 2
+Norys : 2
+Nossor Ri : 2
+Notluwiski Papanoida : 2
+Numa Rar : 2
+Nuso Esva : 2
+Nute Gunray : 2
+Nuvo Vindi : 2
+Nyche Horn : 2
+Ob Khaddor : 2
+Obi-Wan Kenobi : 2
+Octa Ramis : 2
+Odan-Urr : 2
+Odumin : 2
+Old One : 2
+Ommin : 2
+Oncho Shen : 2
+Onimi : 2
+Ood Bnar : 2
+Oola : 2
+Ooryl Qrygg : 2
+Oppo Rancisis : 2
+Ordith Huarr : 2
+Orliss Gillmunn : 2
+Orman Tagge : 2
+Oron Kira : 2
+Orrk : 2
+Oss Wilum : 2
+Osuno Whett : 2
+Osvald Teshik : 2
+Owen Lars : 2
+Ozz : 2
+Ozzik Sturn : 2
+Pablo Hidalgo : 2
+Pakka : 2
+Palpatine : 2
+Papanoida : 2
+Pash Cracken : 2
+Paul Chadwick : 2
+Peccati Syn : 2
+Pekt : 2
+Perry King : 2
+Peter Mayhew : 2
+Petro : 2
+Plat Mallar : 2
+Platt Okeefe : 2
+Plif : 2
+Plo Koon : 2
+Ploovo Two-For-One : 2
+Pooja Naberrie : 2
+Porolo Miatamia : 2
+Porter : 2
+Primor : 2
+Protas : 2
+Pter Thanas : 2
+Pwoe : 2
+Q-Varx : 2
+Qau Lah : 2
+Qelah Kwaad : 2
+Qu Rahn : 2
+Quaagan : 2
+Quaffug : 2
+Quagga : 2
+Quarg : 2
+Quelev Tapper : 2
+Querdan Dei : 2
+Qui-Gon Jinn : 2
+Quinlan Vos : 2
+Quoreal : 2
+Qurang Lah : 2
+Qwallo Mode : 2
+Raabakyysh : 2
+Raal Panteer : 2
+Rade Dromath : 2
+Raff : 2
+Rahm Kota : 2
+Rajah Ubooki : 2
+Ralph McQuarrie : 2
+Ramiz : 2
+Ramsis Dendup : 2
+Randa Besadii Diori : 2
+Randil Sal : 2
+Randy Stradley : 2
+Ranik Solusar : 2
+Rask : 2
+Raspy-voiced woman : 2
+Rawk : 2
+Raymus Antilles : 2
+Reelo Baruk : 2
+Reina Faleur : 2
+Rekkon : 2
+Relal Tawron : 2
+Rell : 2
+Remart Sasyru : 2
+Renn Tharen : 2
+Requud : 2
+Revan : 2
+Rhondi Tremaine : 2
+Rhysati Ynr : 2
+Richard Marquand : 2
+Riff Tamson : 2
+Riij Winward : 2
+Rik Duel : 2
+Rikel : 2
+Rillao : 2
+Riv Shiel : 2
+Roa : 2
+Roan Novachez : 2
+Roan Shryne : 2
+Roganda Ismaren : 2
+Rokur Gepta : 2
+Rolund Tremaine : 2
+Rorf Willems : 2
+Roron Corobb : 2
+Roshti : 2
+Rostek Horn : 2
+Rotta : 2
+Rouge Organa : 2
+Rukh : 2
+S. V. Skynx : 2
+Saba Sebatyne : 2
+Saberan Marcross : 2
+Sadras Koyan : 2
+Saesee Tiin : 2
+Sair Yonka : 2
+Sajsh : 2
+Salacious B. Crumb : 2
+Salla Zend : 2
+Sallinor Parova : 2
+Salmara : 2
+Sam Witwer : 2
+Sanjay Rash : 2
+Sarasu Taalon : 2
+Sardonne Sardon : 2
+Sarkli : 2
+Sarl Random : 2
+Sarna : 2
+Satal Keto : 2
+Sate Pestage : 2
+Savage Opress : 2
+Savan : 2
+Saw Gerrera : 2
+Scerra Horn : 2
+Sedriss QL : 2
+Seek Ryontarr : 2
+Seer : 2
+Seff Hellin : 2
+Seggor Tels : 2
+Seha Dorvald : 2
+Sena Leikvold Midanyl : 2
+Sereno : 2
+Serji-X Arrogantus : 2
+Serom Haxan : 2
+Seth Green : 2
+Seti Ashgad : 2
+Seyyerin Itoklo : 2
+Sha Koon : 2
+Shaak Ti : 2
+Shala : 2
+Shallamar : 2
+Shannon McRandle : 2
+Sharad Hett : 2
+Shedao Shai : 2
+Sheltay Retrac : 2
+Shirlee Faughn : 2
+Shmi Skywalker Lars : 2
+Shok Tinoktin : 2
+Shoon-mi Esh : 2
+Shoran : 2
+Shug Ninx : 2
+Shula Shevu : 2
+Sian Tevv : 2
+Sidney Ganis : 2
+Sidrona : 2
+Sien Sovv : 2
+Sifo-Dyas : 2
+Silver Fyre : 2
+Silya Shessaun : 2
+Sinan Mat : 2
+Siolle Tinta : 2
+Siron Tawaler : 2
+Sirrakuk : 2
+Skorr : 2
+Sliven : 2
+Snoova : 2
+Son : 2
+Soon Bayts : 2
+Soontir Fel : 2
+Soron Hegerty : 2
+Sparv : 2
+Spero : 2
+Spinda Caveel : 2
+Sprool : 2
+Ssoh : 2
+Starkiller : 2
+Stass Allie : 2
+Steng : 2
+Stephen J. Sansweet : 2
+Steven Spielberg : 2
+Streen : 2
+Strok : 2
+Stuart Freeborn : 2
+Sugi : 2
+Suvam Tan : 2
+Suz Tanwa : 2
+Suzu : 2
+Swilja Fenn : 2
+Sy Snootles : 2
+Syal Antilles Fel : 2
+Sylvar : 2
+T. Lund Phuna : 2
+Tag Greenley : 2
+Taikotelai Akikoma : 2
+Tallisibeth Enwandung-Esterhazy : 2
+Talon Karrde : 2
+Tam Elgrin : 2
+Tammia Hollusen : 2
+Tanda Marelle : 2
+Tannis : 2
+Tanogo : 2
+Tardi : 2
+Tarfang : 2
+Tarfful : 2
+Tarik : 2
+Taru Durn : 2
+Taryn Zel : 2
+Tash Arranda : 2
+Tavion Axmis : 2
+Tay Vanis : 2
+Tedris Bjalin : 2
+Tendra Risant Calrissian : 2
+Teneniel Djo : 2
+Teren Rogriss : 2
+Terese Nielsen : 2
+Terpfen : 2
+Testan ke Harran : 2
+Thame Cerulian : 2
+Thann Mithric : 2
+The Commodore : 2
+Themion Hejaran : 2
+Tholme : 2
+Thorsh : 2
+Tia Organa : 2
+Tieren Nie-Tan : 2
+Tiion Sal-Solo : 2
+Tila Mong : 2
+Tim Rose : 2
+Timi Rotramel : 2
+Timothy Zahn : 2
+Tinketh Fo : 2
+Tion : 2
+Tippet : 2
+Tistura Paan : 2
+Todr Fel : 2
+Tojjevvuk : 2
+Tokra Hazz : 2
+Tola Annax : 2
+Tolok Naap : 2
+Tom Kane : 2
+Tom Taylor : 2
+Tommy Lee Edwards : 2
+Tonnika sisters : 2
+Tott Doneeta : 2
+Tricia Barr : 2
+Triclops : 2
+Triebakk : 2
+Trinnolt Makken : 2
+Trioculus : 2
+Trista Zel : 2
+Tryst Veila : 2
+Tsaak Vootuh : 2
+Tsavong Lah : 2
+Turr Phennir : 2
+Tvrrdko : 2
+Twazzi : 2
+Twool : 2
+Tyber Zann : 2
+Tycho Celchu : 2
+Tyko Thul : 2
+Tyria Sarkin Tainer : 2
+Tyvokka : 2
+Ulic Qel-Droma : 2
+Unidentified Alderaanian stormtrooper : 2
+Unidentified Coruscant Police officer : 2
+Unidentified Force-sensitive Human : 2
+Unidentified Imperial governor : 2
+Unidentified base staffmember : 2
+Unidentified bounty hunter : 2
+Unidentified clone swamp trooper : 2
+Uran Lavint : 2
+Urgiluu : 2
+Urlor Sette : 2
+Uved Pledesin : 2
+Vance Rego : 2
+Vandar Tokare : 2
+Vargi : 2
+Vekker : 2
+Vekki : 2
+Venthan Chassu : 2
+Vesta : 2
+Vestara Khai : 2
+Vestin Axlon : 2
+Vetter Piin : 2
+Vila : 2
+Vill Goir : 2
+Vilmarh Grahrk : 2
+Vima-Da-Boda : 2
+Viqi Shesh : 2
+Vitiate : 2
+Viun Gaalan : 2
+Vodo-Siosk Baas : 2
+Vonnda Ra : 2
+Voon Massa : 2
+Voort saBinring : 2
+Voss Parck : 2
+Voxyn queen : 2
+Voydd Blancken : 2
+Vram : 2
+Vyn Holpur : 2
+W. Wald : 2
+Walter Simonson : 2
+Warshack Rojo : 2
+Warwick Davis : 2
+Wat Tambor : 2
+Waywa Fybot : 2
+Wedge Antilles : 2
+Weebacca : 2
+Wes Janson : 2
+Whie Malreaux : 2
+White Eyes : 2
+Wicket Wystri Warrick : 2
+Wilber Flagesso : 2
+Wilek Nereus : 2
+Wilhuff Tarkin : 2
+Wonn Ionstrike : 2
+Wullf Yularen : 2
+Wurth Skidder : 2
+Wynni : 2
+X2 : 2
+Xanatos : 2
+Xandel Carivus : 2
+Xaverri : 2
+Xim : 2
+Xizor : 2
+Yaddle : 2
+Yakun Kwaad : 2
+Yal Phaath : 2
+Yarael Poof : 2
+Yarmond : 2
+Yarua : 2
+Yeeru Chivkyrie : 2
+Yfra : 2
+Ygal Delois : 2
+Yom Argo : 2
+Yomin Carr : 2
+Yoog Skell : 2
+Yos Kolina : 2
+Ysanne Isard : 2
+Yuos : 2
+Zak Arranda : 2
+Zakar : 2
+Zakarisz Ghent : 2
+Zan Pike : 2
+Zareb : 2
+Zavval : 2
+Zayne Carrick : 2
+Zeen Afit : 2
+Zekka Thyne : 2
+Zeth Durron : 2
+Zho Krazhmir : 2
+Zindra Daine : 2
+Zlarb : 2
+Zlece Oonaar : 2
+Zona Luka : 2
+Zorba Desilijic Tiure : 2
+Zsinj : 2
+Zythmnr : 2
+Round 2 ended
+23520 threads launched = new pages explored
+50 server requests failed
+0 pages not reached and failed
+4147 new characters found
+24051 pages in the tree in total
+4233 characters in total
+2110694 new links to explore found
+Exception in thread "Thread-69395" java.lang.OutOfMemoryError: Java heap space
+	at java.util.Arrays.copyOfRange(Unknown Source)
+	at java.lang.String.<init>(Unknown Source)
+	at java.nio.HeapCharBuffer.toString(Unknown Source)
+	at java.nio.CharBuffer.toString(Unknown Source)
+	at org.jsoup.helper.DataUtil.parseByteData(DataUtil.java:132)
+	at org.jsoup.helper.HttpConnection$Response.parse(HttpConnection.java:747)
+	at org.jsoup.helper.HttpConnection.get(HttpConnection.java:250)
+	at PageParser.readPage(PageParser.java:26)
+	at PageExploration.run(PageExploration.java:33)
+	at java.lang.Thread.run(Unknown Source)
+Exception in thread "Thread-69392" java.lang.OutOfMemoryError: Java heap space
+	at java.io.ByteArrayOutputStream.<init>(Unknown Source)
+	at org.jsoup.helper.DataUtil.readToByteBuffer(DataUtil.java:153)
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:707)
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:628)
+	at org.jsoup.helper.HttpConnection.execute(HttpConnection.java:260)
+	at org.jsoup.helper.HttpConnection.get(HttpConnection.java:249)
+	at PageParser.readPage(PageParser.java:26)
+	at PageExploration.run(PageExploration.java:33)
+	at java.lang.Thread.run(Unknown Source)
+Exception in thread "Thread-69219" java.lang.OutOfMemoryError: Java heap space
+	at java.io.ByteArrayOutputStream.<init>(Unknown Source)
+	at org.jsoup.helper.DataUtil.readToByteBuffer(DataUtil.java:153)
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:707)
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:628)
+	at org.jsoup.helper.HttpConnection.execute(HttpConnection.java:260)
+	at org.jsoup.helper.HttpConnection.get(HttpConnection.java:249)
+	at PageParser.readPage(PageParser.java:26)
+	at PageExploration.run(PageExploration.java:33)
+	at java.lang.Thread.run(Unknown Source)
+Exception in thread "Thread-69401" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "Thread-69333" java.lang.OutOfMemoryError: Java heap space
+	at java.io.ByteArrayOutputStream.<init>(Unknown Source)
+	at org.jsoup.helper.DataUtil.readToByteBuffer(DataUtil.java:153)
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:707)
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:628)
+	at org.jsoup.helper.HttpConnection.execute(HttpConnection.java:260)
+	at org.jsoup.helper.HttpConnection.get(HttpConnection.java:249)
+	at PageParser.readPage(PageParser.java:26)
+	at PageExploration.run(PageExploration.java:33)
+	at java.lang.Thread.run(Unknown Source)
+Exception in thread "Thread-69343" java.lang.OutOfMemoryError: GC overhead limit exceeded
+Exception in thread "Thread-69228" java.lang.OutOfMemoryError: GC overhead limit exceeded
+Exception in thread "Thread-69375" java.lang.OutOfMemoryError: GC overhead limit exceeded
+Exception in thread "Thread-69367" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "Thread-69400" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "Thread-69385" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "Thread-69335" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "Thread-69488" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "Thread-69474" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "Thread-69492" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "Thread-69352" java.lang.OutOfMemoryError: Java heap space
