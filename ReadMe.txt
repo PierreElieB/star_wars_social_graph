@@ -2,9 +2,8 @@ Read Me :
 
 Projet INF431 - Star Wars social graph
 
-Melchior d'Harcourt 
-Pierre-Elie Bélouard
-X2015 
+Melchior H. 
+Pierre-Elie B.
 
 - The folder contains a 4-pages .pdf report and the src directory with the 8 Java classes : Manager, MyLogger, PageExploration, PageParser, WookiePage, Tree and TreeException.
 
